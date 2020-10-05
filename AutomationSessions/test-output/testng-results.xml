@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12843" started-at="2020-10-03T19:07:45Z" finished-at="2020-10-03T19:07:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12843" started-at="2020-10-03T19:07:45Z" finished-at="2020-10-03T19:07:58Z">
+      <class name="automationFramework.Laptoporder2">
+        <test-method status="PASS" signature="a_laptop()[pri:0, instance:automationFramework.Laptoporder2@5419f379]" name="a_laptop" duration-ms="11119" started-at="2020-10-03T19:07:45Z" finished-at="2020-10-03T19:07:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a_laptop -->
+        <test-method status="PASS" signature="b_search()[pri:0, instance:automationFramework.Laptoporder2@5419f379]" name="b_search" duration-ms="1674" started-at="2020-10-03T19:07:56Z" finished-at="2020-10-03T19:07:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b_search -->
+      </class> <!-- automationFramework.Laptoporder2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
