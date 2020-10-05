@@ -17,7 +17,7 @@ public class Modeltest {
 			}
 	@Test
 	public void b_search() {
-		driver.findElement(By.name("q")).sendKeys("selenium jobs in canada");
+		driver.findElement(By.name("q")).sendKeys("selenium jobs in Canada");
 		driver.findElement(By.name("q")).click();
 	}
 	
